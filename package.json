@@ -1,0 +1,14 @@
+{
+  "name": "hyper-dont-catch-my-keys",
+  "version": "1.0.0",
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "description": "Forbids Hyper from catching some keys, therefore allowing some Alt-codes to work on foreign keyboards.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6a/hyper-dont-catch-my-keys"
+  }
+}
